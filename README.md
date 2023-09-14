@@ -7,5 +7,15 @@ The study adopts a rigorous and systematic approach, combining machine learning 
 The Project's main contribution is the finding that,
 1. Count Vectorization consistently outperforms competing techniques in categorizing GDPR law into privacy requirements when paired with the Decision Tree model. 
 2. Standard machine learning algorithms have been proven to outperform BERT, emphasizing the findings' practical value.
-This study has significant implications for enterprises and organizations attempting to address the complicated issues of GDPR compliance, providing them with a powerful tool to easily traverse the complex regulatory landscape. Furthermore, the study provides light on the subtle advantages and disadvantages of sophisticated language models such as BERT when compared to classic machine learning approaches. This comparative research gives useful insights for future privacy compliance and legal automation endeavors.
+
+This study has significant implications for enterprises and organizations attempting to address the complicated issues of GDPR compliance, providing them with a powerful tool to easily traverse the complex regulatory landscape. Furthermore, the study sheds light on the subtle advantages and disadvantages of sophisticated language models such as BERT when compared to classic machine learning approaches. This comparative research gives useful insights for future privacy compliance and legal automation endeavors.
+
+
+Attached files:
+1.	Input File (GPT.csv): This file serves as the input dataset for the following three files.
+2.	Machine Learning Model with Count Vectorizer.ipynb: This Jupyter Notebook contains code for implementing machine learning models (Decision Tree, SVM, Random Forest, Logistic Regression) using the Count Vectorizer.
+3.	Machine Learning Model with TF-IDF.ipynb: This Jupyter Notebook contains code for implementing machine learning models (Decision Tree, SVM, Random Forest, Logistic Regression) using TF-IDF (Term Frequency-Inverse Document Frequency).
+4.	BERT.ipynb: This Jupyter Notebook contains code for implementing a BERT-based model.
+
+
 
